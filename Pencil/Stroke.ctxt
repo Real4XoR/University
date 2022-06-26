@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=Stroke
+comment1.params=color\ lineSize\ x\ y
+comment1.target=Stroke(java.awt.Color,\ double,\ double,\ double)
+comment2.params=x\ y
+comment2.target=void\ add(double,\ double)
+comment2.text=\r\n\ add\ method\r\n
+comment3.params=
+comment3.target=void\ draw()
+comment3.text=\r\n\ inbuilt\ stroke\ draw\ method\r\n
+comment4.params=
+comment4.target=void\ erase()
+comment4.text=\r\n\ Erase\ method.\ I\ know\ this\ definitely\ isn't\ the\ best\ way\ to\ do\ it\ \r\n\ but\ it\ works\ lmao\r\n
+numComments=5
